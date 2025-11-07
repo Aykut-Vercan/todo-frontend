@@ -29,10 +29,10 @@ You can register or log in to explore the app.
 
 
 ###  Clone the repository
-git clone https://github.com/your-username/todo-frontend.git
-cd todo-frontend
-npm install
-VITE_API_URL=https://todo-backend-production-ba85.up.railway.app
-npm run dev
-http://localhost:5173
+- git clone https://github.com/your-username/todo-frontend.git
+- cd todo-frontend
+- npm install
+- VITE_API_URL=https://todo-backend-production-ba85.up.railway.app
+- npm run dev
+- http://localhost:5173
 
