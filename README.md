@@ -18,13 +18,13 @@ You can register or log in to explore the app. for login asdad@gmail.com  test12
 
 ## Tech Stack
 
-- ⚛️ **React 19 + Vite 7**
-- 💅 **Tailwind CSS 3**
-- 🔄 **React Query (TanStack Query)**
-- 🧾 **React Hook Form + Zod Validation**
-- 🌐 **Axios** for API communication
-- 🌙 **Dark / Light Theme Toggle**
-- 🔐 **JWT Authentication**
+-  **React 19 + Vite 7**
+-  **Tailwind CSS 3**
+-  **React Query (TanStack Query)**
+-  **React Hook Form + Zod Validation**
+-  **Axios** for API communication
+-  **Dark / Light Theme Toggle**
+-  **JWT Authentication**
 
 ---
 
