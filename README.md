@@ -9,7 +9,7 @@ It communicates with the Spring Boot backend through RESTful APIs and supports J
 
 👉 [Open Todo App Register](https://todo-frontend-topaz-iota.vercel.app/register)
 
-👉 [Open Todo App Login] (https://todo-frontend-topaz-iota.vercel.app/login) 
+👉 [Open Todo App Login](https://todo-frontend-topaz-iota.vercel.app/login) 
 
 You can register or log in to explore the app. for login asdad@gmail.com  test1234!
 (You can sign up with any email. No verification needed to log in.)
